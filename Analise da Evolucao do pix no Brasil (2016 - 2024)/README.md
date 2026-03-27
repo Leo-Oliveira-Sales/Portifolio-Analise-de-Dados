@@ -52,7 +52,7 @@ Dataset complementar sobre métodos de pagamento no Brasil.
 * import matplotlib.pyplot as plt
 * import seaborn as sns
 
-* Configuração visual dos gráficos:
+#### Configuração visual dos gráficos:
 
       sns.set_style("whitegrid")
   
